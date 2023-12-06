@@ -41,7 +41,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 # Abra um terminal e copie este repositório com o comando
 git clone git@github.com:LEXW3B/rede_social.git
 
-# Entre na pasta Login-React
+# Entre na pasta app
 cd app/
 
 # Instale as dependências
